@@ -3,4 +3,4 @@ Simulation of Ranked Pubg Mobile Matches.
 
 See:
 
-https://www.davidyding.com/navPages/ramblings#chosenonePart2
+https://www.davidyding.com/navPages/theChosenOnePart2
